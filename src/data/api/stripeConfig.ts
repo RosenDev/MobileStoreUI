@@ -1,0 +1,1 @@
+export const stripePublicToken = "pk_test_VzSNgFifxPowDtrl2Nc7SjoF00anFqzHS2";
